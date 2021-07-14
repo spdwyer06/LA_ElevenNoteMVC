@@ -1,5 +1,3 @@
-C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Web\obj\Debug\ElevenNote_Web.csprojAssemblyReference.cache
-C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Web\obj\Debug\ElevenNote_Web.csproj.CoreCompileInputs.cache
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Web\bin\ElevenNote_Web.dll.config
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Web\bin\ElevenNote_Web.dll
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Web\bin\ElevenNote_Web.pdb
@@ -106,6 +104,8 @@ C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Web\bin\Microsoft.Owin.Se
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Web\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Web\obj\Debug\ElevenNote_Web.csprojAssemblyReference.cache
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Web\obj\Debug\ElevenNote_Web.csproj.CoreCompileInputs.cache
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Web\obj\Debug\ElevenNote_Web.csproj.CopyComplete
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Web\obj\Debug\ElevenNote_Web.dll
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Web\obj\Debug\ElevenNote_Web.pdb

@@ -1,6 +1,5 @@
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Services\bin\Debug\ElevenNote_Services.dll
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Services\bin\Debug\ElevenNote_Services.pdb
-C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Services\obj\Debug\ElevenNote_Services.csprojAssemblyReference.cache
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Services\obj\Debug\ElevenNote_Services.csproj.CoreCompileInputs.cache
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Services\obj\Debug\ElevenNote_Services.dll
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Services\obj\Debug\ElevenNote_Services.pdb

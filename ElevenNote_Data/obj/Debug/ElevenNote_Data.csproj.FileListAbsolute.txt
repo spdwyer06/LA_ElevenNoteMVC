@@ -9,7 +9,6 @@ C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\bin\Debug\EntityFram
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\obj\Debug\ElevenNote_Data.csprojAssemblyReference.cache
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\obj\Debug\ElevenNote_Data.csproj.CoreCompileInputs.cache
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\obj\Debug\ElevenNote_Data.csproj.CopyComplete
 C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\obj\Debug\ElevenNote_Data.dll
