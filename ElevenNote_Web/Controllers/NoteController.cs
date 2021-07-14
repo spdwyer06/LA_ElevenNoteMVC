@@ -118,6 +118,8 @@ namespace ElevenNote_Web.Controllers
             return RedirectToAction("Index");
         }
 
+
+
         private NoteService CreateNoteService()
         {
             var userId = Guid.Parse(User.Identity.GetUserId());
