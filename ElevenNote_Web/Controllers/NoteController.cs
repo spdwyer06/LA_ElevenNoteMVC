@@ -9,6 +9,7 @@ using System.Web.Mvc;
 
 namespace ElevenNote_Web.Controllers
 {
+    [Authorize]
     public class NoteController : Controller
     {
         // GET: Note
