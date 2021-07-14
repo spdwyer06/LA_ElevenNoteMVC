@@ -1,0 +1,16 @@
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\bin\Debug\ElevenNote_Data.dll.config
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\bin\Debug\ElevenNote_Data.dll
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\bin\Debug\ElevenNote_Data.pdb
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\bin\Debug\EntityFramework.dll
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\bin\Debug\EntityFramework.xml
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\obj\Debug\ElevenNote_Data.csprojAssemblyReference.cache
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\obj\Debug\ElevenNote_Data.csproj.CoreCompileInputs.cache
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\obj\Debug\ElevenNote_Data.csproj.CopyComplete
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\obj\Debug\ElevenNote_Data.dll
+C:\Sean\EFA_LA\03_RedBadge\LA_ElevenNoteMVC\ElevenNote_Data\obj\Debug\ElevenNote_Data.pdb
